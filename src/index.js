@@ -125,7 +125,7 @@ export default {
                 }
             }
 
-            const textPrompt = `🎉 Hipanime Thumb Generation Working Just like normal 😊`;
+            const text= `🎉 Hipanime Thumb Generation Working Just like normal 😊`;
 
 // To insert this HTML into a webpage, you might use document.write (for demonstration purposes only)
 
