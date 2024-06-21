@@ -125,22 +125,7 @@ export default {
                 }
             }
 
-            const textPrompt = `
-<!DOCTYPE html>
-<head>
-    <title>Hipanime Thumb Generation</title>
-    <script type="text/javascript">
-        window.onload = function() {
-            alert("🎉 Hipanime Thumb Generation Working Just like normal 😊");
-        }
-    </script>
-</head>
-<body>
-    <h1>Hipanime Thumb Generation 🚀</h1>
-    <img src="https://via.placeholder.com/150" alt="Sample Image">
-</body>
-</html>
-`;
+            const textPrompt = `🎉 Hipanime Thumb Generation Working Just like normal 😊`;
 
 // To insert this HTML into a webpage, you might use document.write (for demonstration purposes only)
 
