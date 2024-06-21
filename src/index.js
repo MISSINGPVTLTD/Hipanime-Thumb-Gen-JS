@@ -127,10 +127,7 @@ export default {
 
             const textPrompt = `
 <!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hipanime Thumb Generation</title>
     <script type="text/javascript">
         window.onload = function() {
@@ -146,7 +143,7 @@ export default {
 `;
 
 // To insert this HTML into a webpage, you might use document.write (for demonstration purposes only)
-document.write(textPrompt);
+
             
 
             return new Response(text, {
